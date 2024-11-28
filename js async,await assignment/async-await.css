@@ -1,0 +1,41 @@
+body{
+    background-color: brown;
+}
+.load{
+    font-size: 50px;
+    color: red;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+input{
+    
+    color: red;
+    background-color: white;
+
+    position: relative;
+    left: 600px;
+
+}
+.button{
+    border-radius: 35px;
+    width: 100px;
+    height: 40px;
+
+}
+.container{
+    border: 1px solid yellow;
+}
+.container p{
+    color:white;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: red;
+    
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: green;
+    color: red;
+}
